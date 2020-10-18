@@ -5,7 +5,7 @@ This repository was created to help developers get started with Open Source duri
 
 ## Have you found some awesome repositories participating in Hacktoberfest?
 
-Add them to this list so others can find it too and start contributing, however, make sure that these repositories are beginner-friendly!
+Add them to this list so others can find it too and you can start contirbuting with the open source, however, make sure that these repositories are beginner-friendly!
 > NOTE: Check out `issues` labelled as `Hacktoberfest` and start contributing!
 
 ## Submitting a pull request
